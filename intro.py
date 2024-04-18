@@ -28,5 +28,20 @@ print(False)
 
 ##What is Variables?
 
-a = 1
+a = [10]
+b = [10]
+c = 10
+d = 10
+
+print(type(a))
+print(id(a))
+print(id(b))
+print(id(c))
+print(id(d))
+print()
+print(a is b)
+print(a == b)
+print()
+print(c is d)
+print(c == d)
 
