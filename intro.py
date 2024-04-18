@@ -1,0 +1,32 @@
+##Exploring Basic Datatypes
+"""
+print("hello world")
+print('hello python')
+print('''Hello
+Everyone''')
+print(123,56,76)
+print(123.45)
+print(123.45j)
+print(123.45j)
+print(True)
+print(False)
+##print(5/0)
+"""
+
+##How to check datatypes?
+
+##type()
+
+##print(type("hello"))
+##print(type("4565"))
+##print(type("Hello ☻"))
+##print(type(465))
+##print(type(465.55))
+##print(type(465j))
+##print(type(True))
+##print(type(False))
+
+##What is Variables?
+
+a = 1
+
