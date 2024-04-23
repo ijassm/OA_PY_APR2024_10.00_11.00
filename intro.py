@@ -28,20 +28,29 @@ print(False)
 
 ##What is Variables?
 
-a = [10]
-b = [10]
-c = 10
-d = 10
+name = "sapthagiri"
+age = 17
+height = 5.11
+voteelgibility = False
 
-print(type(a))
-print(id(a))
-print(id(b))
-print(id(c))
-print(id(d))
-print()
-print(a is b)
-print(a == b)
-print()
-print(c is d)
-print(c == d)
+print(name)
+print(age)
+print(height)
+##print(voteelgibility)
+
+##naming convention
+
+##camelCase
+
+##voteElgibility = True
+
+##print(voteElgibility)
+
+
+
+
+
+
+
+
 
