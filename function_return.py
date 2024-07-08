@@ -34,14 +34,14 @@ l3 = [1, 6, 7, 8]
 # print(output)
 
 
-def sum(l):
+def sum(l: list) -> int:
     s = 0
     for i in l:
         s += i
     return s
 
 
-def product(l):
+def product(l: list) -> int:
     p = 1
     for i in l:
         if i != 0:
@@ -49,7 +49,8 @@ def product(l):
     return p
 
 
-# print(sum(l1) + product(l1))
+print(sum(l1) + product(l1))
+
 
 # output1 = sum(l1) + product(l1)
 # output2 = sum(l2) - product(l2)
