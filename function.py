@@ -37,11 +37,11 @@ l3 = [1, 6, 7, 8]
 # creating a new sum function
 
 
-# def sum(l):
-#     s = 0
-#     for i in l:
-#         s += i
-#     print(s)
+def sum(l):
+    s = 0
+    for i in l:
+        s += i
+    print(s)
 
 
 # sum(l1)
